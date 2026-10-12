@@ -1,0 +1,5 @@
+faster-whisper>=1.1
+imageio-ffmpeg>=0.5
+av>=12
+mediapipe>=0.10.14
+pillow>=10.1
