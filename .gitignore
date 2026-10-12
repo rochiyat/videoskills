@@ -1,0 +1,4 @@
+.venv/
+.claude/skills/video-edit/models/
+__pycache__/
+_edit/
